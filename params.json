@@ -1,6 +1,6 @@
 {
   "name": "Lily Chang's GitHub",
   "tagline": "A showcase of tidbits of everything.",
-  "body": "* http://lichangny.github.io/fun_projects/\r\n* http://lichangny.github.io/NYC_subway/\r\n* http://lichangny.github.io/MongoDB_OpenStreetMap/\r\n* http://lichangny.github.io/White-Wine-Analysis/\r\n* http://lichangny.github.io/AB_Testing/ \r\n* http://lichangny.github.io/Eron_Fraud/\r\n* http://lichangny.github.io/US_Flight_2008/\r\n",
+  "body": "\r\n# Project Porfolio\r\n* My First Data Science Project: [NYC Subway!](http://lichangny.github.io/NYC_subway/)\r\n* Exploring [Ho Chi Minh City](http://lichangny.github.io/MongoDB_OpenStreetMap/) OpenStreeMap Data.\r\n* An [Exploratory Analysis](http://lichangny.github.io/White-Wine-Analysis/) of White Wine.\r\n* [Experiment Design & AB Testing](http://lichangny.github.io/AB_Testing/) \r\n* Machine learning algorithms to predict person of interest for [fraud detection](http://lichangny.github.io/Eron_Fraud/).\r\n* A [D3 Visualization](http://lichangny.github.io/US_Flight_2008/) of 2008 US Flight Information.\r\n* [Some fun exercises](http://lichangny.github.io/fun_projects/): Coding up something for fun.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
